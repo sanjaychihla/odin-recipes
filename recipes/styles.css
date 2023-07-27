@@ -1,0 +1,29 @@
+* {
+    text-align: center;
+    color: red;
+    font-weight: lighter;
+    background-color: gold;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1,
+h3,
+h4 {
+    font-family: Georgia, 'Times New Roman', sans-serif;
+    font-weight: bolder;
+    color: blue;
+}
+
+ul {
+   color: black;
+}
+
+ul>li {
+    color: green;
+    background-color: aqua;
+    font-weight: bolder;
+}
+
+ol>li {
+    color: brown;
+}
