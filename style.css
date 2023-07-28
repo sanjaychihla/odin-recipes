@@ -1,6 +1,6 @@
 
 * {
-    background-color: gray;
+    background-color: hsl(81, 33%, 81%);
 }
 
 h1 {
@@ -10,12 +10,20 @@ h1 {
     font-weight: bolder;
 }
 
- ul {
-    background-color: yellow
+.list-bg {
+    background-color: aliceblue;
+    padding: 10px;
+}
+
+ul {
+    background-color: rgb(50, 255, 160);
+}
+
+li {text-align: center;
+    padding: 10px;
+    background-color: rgb(50, 255, 160);
 }
 
 a {
     font-family: 'Courier New', Courier, monospace;
-    color: blue;
-    background-color: red;
 }
