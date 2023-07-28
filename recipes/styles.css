@@ -1,8 +1,7 @@
 * {
     text-align: center;
-    color: red;
     font-weight: lighter;
-    background-color: gold;
+    background-color: rgb(200, 250, 255)
     font-family: 'Courier New', Courier, monospace;
 }
 
@@ -11,7 +10,7 @@ h3,
 h4 {
     font-family: Georgia, 'Times New Roman', sans-serif;
     font-weight: bolder;
-    color: blue;
+    color: black
 }
 
 ul {
@@ -19,11 +18,9 @@ ul {
 }
 
 ul>li {
-    color: green;
-    background-color: aqua;
     font-weight: bolder;
 }
 
 ol>li {
-    color: brown;
+    
 }
